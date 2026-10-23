@@ -5,8 +5,8 @@ Este es un programa de consola desarrollado en Python que permite a los usuarios
 El proyecto consume datos en tiempo real mediante una API pública ([DolarAPI](https://dolarapi.com/)) y muestra los resultados de manera estilizada en una tabla
 
 ## Integrantes del Grupo
-- Morena
-- Agustin
+- Morena Nicora
+- Agustin Sanchez
 - Luciano Esquivel
 
 
