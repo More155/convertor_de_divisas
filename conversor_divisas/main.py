@@ -1,5 +1,5 @@
 
-from getApi import consultar_api_dolar
+from conexion_api.getApi import consultar_api_dolar
 from func.obtener_monto_ars import obtener_monto_ars
 from func.procesar_cotizaciones import procesar_cotizaciones
 from func.mostrar_resultados import mostrar_resultados
